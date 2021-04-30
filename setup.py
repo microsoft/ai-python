@@ -110,7 +110,7 @@ setup(
         "jieba3k==0.35.1",
         "joblib==0.16.0",
         "kiwisolver>=1.0.0",
-        "lasio==0.25.0",
+        "lasio==0.29",
         "lightgbm==2.3.0",
         "llvmlite==0.35.0",
         "lxml>=4.6.2",
